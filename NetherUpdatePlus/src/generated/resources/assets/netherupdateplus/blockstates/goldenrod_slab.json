@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "netherupdateplus:block/goldenrod_slab_top"
+    },
+    "type=bottom": {
+      "model": "netherupdateplus:block/goldenrod_slab"
+    },
+    "type=double": {
+      "model": "netherupdateplus:block/goldenrod_nether_bricks"
+    }
+  }
+}

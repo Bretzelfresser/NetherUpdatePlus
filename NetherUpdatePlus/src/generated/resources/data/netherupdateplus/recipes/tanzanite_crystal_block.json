@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#g#",
+    "g#g",
+    "#g#"
+  ],
+  "key": {
+    "#": {
+      "item": "netherupdateplus:tanzanite_item"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "netherupdateplus:tanzanite_crystal_block"
+  }
+}

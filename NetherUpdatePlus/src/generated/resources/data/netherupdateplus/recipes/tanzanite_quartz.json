@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "t  ",
+    "q  "
+  ],
+  "key": {
+    "q": {
+      "item": "minecraft:quartz"
+    },
+    "t": {
+      "item": "netherupdateplus:tanzanite_item"
+    }
+  },
+  "result": {
+    "item": "netherupdateplus:tanzanite_quartz",
+    "count": 4
+  }
+}

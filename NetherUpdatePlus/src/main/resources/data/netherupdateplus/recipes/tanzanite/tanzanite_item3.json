@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherupdateplus:tanzanite_block"
+        }
+    ],
+    "result": {
+        "item": "netherupdateplus:tanzanite_item",
+        "count": 9
+    }
+}

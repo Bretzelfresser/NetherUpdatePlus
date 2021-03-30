@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "qdq",
+    "qrq",
+    "ndn"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "n": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "q": {
+      "item": "netherupdateplus:tanzanite_quartz"
+    }
+  },
+  "result": {
+    "item": "netherupdateplus:quartz_boots"
+  }
+}

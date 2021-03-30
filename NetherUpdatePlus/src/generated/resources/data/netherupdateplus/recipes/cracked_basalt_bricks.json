@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "netherupdateplus:basalt_bricks"
+  },
+  "result": "netherupdateplus:cracked_basalt_bricks",
+  "experience": 0.7,
+  "cookingtime": 200
+}

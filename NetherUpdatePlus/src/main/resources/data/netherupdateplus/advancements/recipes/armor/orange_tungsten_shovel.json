@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "netherupdateplus:orange_tungsten_shovel"
+    ]
+  },
+  "criteria": {
+    "hasItemorange": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "netherupdateplus:orange_tungsten_ingot"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "netherupdateplus:orange_tungsten_shovel"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hasItemorange",
+      "has_the_recipe"
+    ]
+  ]
+}

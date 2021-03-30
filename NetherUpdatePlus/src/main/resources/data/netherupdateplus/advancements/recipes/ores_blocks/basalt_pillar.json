@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "netherupdateplus:basalt_pillar"
+    ]
+  },
+  "criteria": {
+    "hasName": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "netherupdateplus:basalt_pillar"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "netherupdateplus:basalt_pillar"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hasName",
+      "has_the_recipe"
+    ]
+  ]
+}

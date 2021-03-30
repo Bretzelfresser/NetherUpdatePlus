@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "netherupdateplus:silver_tungsten_shovel"
+    ]
+  },
+  "criteria": {
+    "hasItemsilver": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "netherupdateplus:silver_tungsten_ingot"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "netherupdateplus:silver_tungsten_shovel"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hasItemsilver",
+      "has_the_recipe"
+    ]
+  ]
+}

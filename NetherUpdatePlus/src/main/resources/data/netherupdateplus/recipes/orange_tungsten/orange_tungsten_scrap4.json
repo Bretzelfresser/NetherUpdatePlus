@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "netherupdateplus:orange_tungsten"
+    },
+    "result": "netherupdateplus:orange_tungsten_scrap",
+    "experience": 0.4,
+    "cookingtime": 100
+}

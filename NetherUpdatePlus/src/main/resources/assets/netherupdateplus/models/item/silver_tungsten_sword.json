@@ -1,0 +1,6 @@
+{
+	"parent":"item/handheld",
+	"textures":{
+		"layer0":"netherupdateplus:items/tools/silver_tungsten_sword"
+	}
+}

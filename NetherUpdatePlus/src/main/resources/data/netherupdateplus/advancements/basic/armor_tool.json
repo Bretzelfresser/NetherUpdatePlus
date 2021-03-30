@@ -1,0 +1,500 @@
+{
+	"parent": "netherupdateplus:basic/quartz_boots",
+	"display": {
+		"title": {
+			"translate": "advancement.netherupdateplus.armor_tool.title"
+		},
+		"description": {
+			"translate": "advancement.netherupdateplus.armor_tool.discription",
+			"color": "dark_purple"
+		},
+		"icon": {
+			"item": "netherupdateplus:orange_tungsten_chestplate"
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false,
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": {
+		"quartzBoots": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:quartz_boots",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_chestplate",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_helmet",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_leggins",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_boots",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_axe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_pickaxe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_shovel",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_sword",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungsten9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_chestplate",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_helmet",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_leggins",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_boots",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_axe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_pickaxe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_shovel",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_sword",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungsten9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten1": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_chestplate",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_helmet",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_leggins",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_boots",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_axe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_pickaxe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_shovel",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_sword",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungsten9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"quartzBoots"
+		],
+		[
+			"orangeTungsten1"
+		],
+		[
+			"orangeTungsten2"
+		],
+		[
+			"orangeTungsten3"
+		],
+		[
+			"orangeTungsten4"
+		],
+		[
+			"orangeTungsten5"
+		],
+		[
+			"orangeTungsten6"
+		],
+		[
+			"orangeTungsten7"
+		],
+		[
+			"orangeTungsten8"
+		],
+		[
+			"orangeTungsten9"
+		],
+		[
+			"silverTungsten1"
+		],
+		[
+			"silverTungsten2"
+		],
+		[
+			"silverTungsten3"
+		],
+		[
+			"silverTungsten4"
+		],
+		[
+			"silverTungsten5"
+		],
+		[
+			"silverTungsten6"
+		],
+		[
+			"silverTungsten7"
+		],
+		[
+			"silverTungsten8"
+		],
+		[
+			"silverTungsten9"
+		],
+		[
+			"blackTungsten1"
+		],
+		[
+			"blackTungsten2"
+		],
+		[
+			"blackTungsten3"
+		],
+		[
+			"blackTungsten4"
+		],
+		[
+			"blackTungsten5"
+		],
+		[
+			"blackTungsten6"
+		],
+		[
+			"blackTungsten7"
+		],
+		[
+			"blackTungsten8"
+		],
+		[
+			"blackTungsten9"
+		]
+	]
+}

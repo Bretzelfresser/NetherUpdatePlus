@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "netherupdateplus:blocks/chisled_goldenrod_nether_bricks"
+    }
+}

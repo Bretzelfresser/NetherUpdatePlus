@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "netherupdateplus:block/polished_basalt_slab_top"
+    },
+    "type=bottom": {
+      "model": "netherupdateplus:block/polished_basalt_slab"
+    },
+    "type=double": {
+      "model": "netherupdateplus:block/burnished_basalt"
+    }
+  }
+}

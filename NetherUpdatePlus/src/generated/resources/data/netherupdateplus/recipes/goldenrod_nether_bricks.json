@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#y ",
+    "y# ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nether_brick"
+    },
+    "y": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "netherupdateplus:goldenrod_nether_bricks",
+    "count": 4
+  }
+}

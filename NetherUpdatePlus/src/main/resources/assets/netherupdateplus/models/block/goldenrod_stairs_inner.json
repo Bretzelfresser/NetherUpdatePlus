@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "side": "netherupdateplus:block/goldenrod_nether_bricks",
+    "bottom": "netherupdateplus:block/goldenrod_nether_bricks",
+    "top": "netherupdateplus:block/goldenrod_nether_bricks"
+  }
+}

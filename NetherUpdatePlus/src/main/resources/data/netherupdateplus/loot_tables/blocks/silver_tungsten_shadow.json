@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "netherupdateplus:silver_tungsten_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 9,
+          "name": "netherupdateplus:silver_tungsten"
+        }
+      ]
+    }
+  ]
+}

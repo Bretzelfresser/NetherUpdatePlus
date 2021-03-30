@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherupdateplus:black_tungsten_ingot"
+        }
+    ],
+    "result": {
+        "item": "netherupdateplus:black_tungsten_nugget",
+        "count": 9
+    }
+}

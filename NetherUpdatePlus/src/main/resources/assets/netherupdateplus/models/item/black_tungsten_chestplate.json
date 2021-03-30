@@ -1,0 +1,6 @@
+{
+	"parent":"item/generated",
+	"textures":{
+		"layer0":"netherupdateplus:items/armor/black_tungsten_chestplate"
+	}
+}

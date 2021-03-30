@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "netherupdateplus:goldenrod_wall",
+    "netherupdateplus:basalt_bricks_wall",
+    "netherupdateplus:polished_basalt_wall",
+    "netherupdateplus:pummis_tiles_wall",
+    "netherupdateplus:pummis_bricks_wall",
+    "netherupdateplus:polished_pummis_wall"
+  ]
+}

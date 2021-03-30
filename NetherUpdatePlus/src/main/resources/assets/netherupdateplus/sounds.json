@@ -1,0 +1,43 @@
+{
+	"item.blazeful_sound_disk": {
+		"category": "item",
+		"subtitle": "item.blazeful_sound_disc.sub",
+		"sounds": [
+			{
+				"name": "netherupdateplus:item/blazeful_beats",
+				"steam": "true"
+			}
+		]
+	},
+	"item.quartz_boots_ticking": {
+		"category": "item",
+		"subtitle": "item.quartz_boots_ticking.sub",
+		"sounds": [
+			{
+				"name": "netherupdateplus:item/quartz_boots_ticking",
+				"steam": "true"
+			}
+		]
+	},
+	"item.quartz_boots_charging_start": {
+		"category": "item",
+		"subtitle": "item.quartz_boots_charging_start.sub",
+		"sounds": [
+			{
+				"name": "netherupdateplus:item/quartz_boots_charging_start",
+				"steam": "true"
+			}
+		]
+	},
+	"item.quartz_boots_charging": {
+		"category": "item",
+		"subtitle": "item.quartz_boots_charging.sub",
+		"sounds": [
+			{
+				"name": "netherupdateplus:item/quartz_boots_charging",
+				"steam": "true"
+			}
+		]
+	}
+	
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "netherupdateplus:block/goldenrod_nyleum_block",
+    "bottom": "minecraft:block/netherrack",
+    "top": "netherupdateplus:block/goldenrod_nyleum_block_top"
+  }
+}

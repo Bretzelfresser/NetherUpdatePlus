@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "side": "netherupdateplus:block/polished_pummis_block",
+    "bottom": "netherupdateplus:block/polished_pummis_block",
+    "top": "netherupdateplus:block/polished_pummis_block"
+  }
+}

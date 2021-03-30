@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "netherupdateplus:tanzanite_item"
+        }
+    },
+    "result": {
+        "item": "netherupdateplus:tanzanite_block",
+        "count": 1
+    }
+}

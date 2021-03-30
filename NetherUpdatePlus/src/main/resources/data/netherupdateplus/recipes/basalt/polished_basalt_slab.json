@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "netherupdateplus:burnished_basalt"
+    }
+  },
+  "result": {
+    "item": "netherupdateplus:polished_basalt_slab",
+    "count": 6
+  }
+}

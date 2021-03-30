@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "side": "netherupdateplus:block/burnished_basalt",
+    "bottom": "netherupdateplus:block/burnished_basalt",
+    "top": "netherupdateplus:block/burnished_basalt"
+  }
+}

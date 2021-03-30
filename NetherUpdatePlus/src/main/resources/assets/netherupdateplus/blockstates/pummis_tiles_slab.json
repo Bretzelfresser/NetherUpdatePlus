@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "netherupdateplus:block/pummis_tiles_slab_top"
+    },
+    "type=bottom": {
+      "model": "netherupdateplus:block/pummis_tiles_slab"
+    },
+    "type=double": {
+      "model": "netherupdateplus:block/pummis_tiles"
+    }
+  }
+}

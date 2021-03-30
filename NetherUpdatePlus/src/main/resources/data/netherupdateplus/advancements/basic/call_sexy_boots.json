@@ -1,0 +1,74 @@
+{
+	"parent": "netherupdateplus:basic/quartz_boots",
+	"display": {
+		"title": {
+			"translate": "advancement.netherupdateplus.call_sexy_boots.title"
+		},
+		"description": {
+			"translate": "advancement.netherupdateplus.call_sexy_boots.discription",
+			"color": "green"
+		},
+		"icon": {
+			"item": "netherupdateplus:quartz_boots"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false,
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": {
+		"calledSexyBoots": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item":"netherupdateplus:quartz_boots",
+						"nbt": "{display:{Name:\"{\\\"text\\\":\\\"sexy Boots\\\"}\"}}"
+					}
+				]
+			}
+		},
+		"calledSexyBoots2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item":"netherupdateplus:quartz_boots",
+						"nbt": "{display:{Name:\"{\\\"text\\\":\\\"Sexy Boots\\\"}\"}}"
+					}
+				]
+			}
+		},
+		"calledSexyBoots3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item":"netherupdateplus:quartz_boots",
+						"nbt": "{display:{Name:\"{\\\"text\\\":\\\"sexy boots\\\"}\"}}"
+					}
+				]
+			}
+		},
+		"calledSexyBoots4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item":"netherupdateplus:quartz_boots",
+						"nbt": "{display:{Name:\"{\\\"text\\\":\\\"Sexy boots\\\"}\"}}"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"calledSexyBoots",
+			"calledSexyBoots2",
+			"calledSexyBoots3",
+			"calledSexyBoots4"
+		]
+	]
+}

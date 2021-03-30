@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "netherupdateplus:block/burnished_basalt"
+  }
+}

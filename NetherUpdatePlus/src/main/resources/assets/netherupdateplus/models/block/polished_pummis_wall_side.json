@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "netherupdateplus:block/polished_pummis_block"
+  }
+}

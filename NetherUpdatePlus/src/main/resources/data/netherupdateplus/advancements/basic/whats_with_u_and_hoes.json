@@ -1,0 +1,179 @@
+{
+	"parent": "netherupdateplus:basic/root",
+	"display": {
+        "title": {
+            "translate": "advancement.netherupdateplus.whats_with_u_and_hoes.title"
+        },
+        "description": {
+            "translate": "advancement.netherupdateplus.whats_with_u_and_hoes.discription",
+            "color": "dark_purple"
+        },
+		"icon": {
+			"item": "netherupdateplus:silver_tungsten_hoe"
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false,
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": {
+		"ironHoe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:iron_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"stoneHoe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:stone_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"woodenHoe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:wooden_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"goldHoe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:golden_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"diamondHoe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:diamond_hoe"
+					}
+				]
+			}
+		},
+		"netheriteHoe2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:netherite_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"silverTungstenHoe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:silver_tungsten_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"blackTungstenHoe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:black_tungsten_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		},
+		"orangeTungstenHoe": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:orange_tungsten_hoe",
+						"count": {
+							"min": 1,
+							"max": 1
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"ironHoe"
+		],
+		[
+			"stoneHoe"
+		],
+		[
+			"woodenHoe"
+		],
+		[
+			"goldHoe"
+		],
+		[
+			"diamondHoe"
+		],
+		[
+			"netheriteHoe2"
+		],
+		[
+			"silverTungstenHoe"
+		],
+		[
+			"blackTungstenHoe"
+		],
+		[
+			"orangeTungstenHoe"
+		]
+	],
+	"rewards": {
+        "loot": [
+            "netherupdateplus:advancements/advancement_hoe_icon"
+        ],
+        "experience": 10
+    }
+}

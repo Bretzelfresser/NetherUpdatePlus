@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "netherupdateplus:goldenrod_nether_bricks"
+    }
+  },
+  "result": {
+    "item": "netherupdateplus:goldenrod_slab",
+    "count": 6
+  }
+}

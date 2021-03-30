@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "netherupdateplus:black_tungsten_ingot"
+        }
+    },
+    "result": {
+        "item": "netherupdateplus:black_tungsten_helmet",
+        "count": 1
+    }
+}

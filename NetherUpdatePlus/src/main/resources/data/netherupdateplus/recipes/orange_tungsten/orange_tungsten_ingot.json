@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherupdateplus:orange_tungsten_block"
+        }
+    ],
+    "result": {
+        "item": "netherupdateplus:orange_tungsten_ingot",
+        "count": 4
+    }
+}

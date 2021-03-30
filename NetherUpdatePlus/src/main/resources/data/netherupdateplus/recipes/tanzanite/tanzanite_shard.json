@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "netherupdateplus:tanzanite_item"
+        }
+    ],
+    "result": {
+        "item": "netherupdateplus:tanzanite_shard",
+        "count": 2
+    }
+}

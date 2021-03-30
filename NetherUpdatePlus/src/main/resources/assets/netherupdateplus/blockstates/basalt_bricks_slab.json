@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "netherupdateplus:block/basalt_bricks_slab_top"
+    },
+    "type=bottom": {
+      "model": "netherupdateplus:block/basalt_bricks_slab"
+    },
+    "type=double": {
+      "model": "netherupdateplus:block/basalt_bricks"
+    }
+  }
+}

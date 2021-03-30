@@ -1,0 +1,37 @@
+{
+	"parent": "netherupdateplus:basic/root",
+	"display": {
+		"title": {
+			"translate": "advancement.netherupdateplus.quartz_boots.title"
+		},
+		"description": {
+			"translate": "advancement.netherupdateplus.quartz_boots.discription",
+			"color": "green"
+		},
+		"icon": {
+			"item": "netherupdateplus:quartz_boots"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false,
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": {
+		"quartzBoots": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "netherupdateplus:quartz_boots"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"quartzBoots"
+		]
+	]
+}

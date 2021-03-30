@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "netherupdateplus:tanzanite_ore"
+    },
+    "result": "netherupdateplus:tanzanite_item",
+    "experience": 0.4,
+    "cookingtime": 100
+}

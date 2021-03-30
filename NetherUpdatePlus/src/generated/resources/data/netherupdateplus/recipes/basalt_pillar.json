@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "netherupdateplus:burnished_basalt"
+    },
+    {
+      "item": "netherupdateplus:burnished_basalt"
+    }
+  ],
+  "result": {
+    "item": "netherupdateplus:basalt_pillar",
+    "count": 2
+  }
+}
